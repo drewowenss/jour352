@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(249, 232, 211);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    text-align: center;
+
+}
+
+p {
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    font-size: 3em;
+    letter-spacing: 2px;
+    height: 0%;
+    text-align: center;
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 4em;
+    text-align: center
+}
+
+h3 {
+    text-align: center;
+    color:lightgrey
+
+}
+
+img {
+    margin: 1em auto;
+    display: block;
+    max-width: 400px;
+    max-height: 400px;
+}
+
